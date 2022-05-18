@@ -1,6 +1,25 @@
-# Movie
+![Movie](https://user-images.githubusercontent.com/48328397/73142320-25f71800-4085-11ea-855f-b81d24025db2.jpg)
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
+[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
+
+# Flutter_Movie
 
 A new Flutter project.
+
+
+
+## Platform
+
+Android ✔️
+
+Ios ✔️
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
 ## Getting Started
 
