@@ -1,4 +1,4 @@
-# movie
+# Movie
 
 A new Flutter project.
 
