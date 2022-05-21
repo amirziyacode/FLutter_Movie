@@ -52,8 +52,7 @@ class LoginPage extends StatelessWidget {
             SizedBox(
               height: he * 0.07,
             ),
-            Padding(
-              padding: const EdgeInsets.only(right: 10, left: 10),
+          Expanded(
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
@@ -61,8 +60,8 @@ class LoginPage extends StatelessWidget {
                     style: ElevatedButton.styleFrom(
                         shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(30)),
-                        padding: const EdgeInsets.symmetric(
-                            vertical: 20, horizontal: 70),
+                        padding:  EdgeInsets.symmetric(
+                            vertical: 20, horizontal: we * 0.2),
                         primary: const Color(0xFF733FF1)),
                     onPressed: () {
                       Navigator.pushReplacement(
