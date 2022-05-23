@@ -36,6 +36,8 @@ class HomePage extends ConsumerWidget {
         body: ref.watch(moviesFutureProvider).when(
             data: (movies) {
               return RefreshIndicator(
+                color: Colors.white,
+                backgroundColor: const Color(0xFF733FF1),
                 onRefresh: () async {
                   return ref.refresh(moviesFutureProvider);
                 },
