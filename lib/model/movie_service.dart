@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:movie/environment_config.dart';
+import 'package:movie/model/environment_config.dart';
 import 'package:movie/model/movie.dart';
 
 import 'movies_exception.dart';
@@ -32,3 +32,4 @@ class MovieService {
     }
   }
 }
+
