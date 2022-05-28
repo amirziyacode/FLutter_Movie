@@ -18,7 +18,7 @@ Ios ✔️
 
 |               Preview                |                 App                  |
 | :----------------------------------: | :----------------------------------: |
-| ![ezgif com-gif-maker](https://user-images.githubusercontent.com/75315732/166823568-14decf33-2d92-40ae-8951-e7cc42e5da28.gif) | ![w](<img width="347" alt="FLutter_image" src="https://user-images.githubusercontent.com/75315732/170837337-287bf519-e392-4fd0-b0da-df45e04417db.png">
+| ![ezgif com-gif-maker](https://user-images.githubusercontent.com/75315732/166823568-14decf33-2d92-40ae-8951-e7cc42e5da28.gif) | ![w](https://user-images.githubusercontent.com/75315732/170837337-287bf519-e392-4fd0-b0da-df45e04417db.png)
 ) |
 
 
