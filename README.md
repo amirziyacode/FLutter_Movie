@@ -14,11 +14,12 @@ Android ✔️
 
 Ios ✔️
 
+
 ### ✌&ensp;Preview
 
-|               Preview                |                 App                  |
+|               DarkMode               |              LightMode               |
 | :----------------------------------: | :----------------------------------: |
-| ![e](https://s6.uupload.ir/files/ezgif.com-gif-maker_pst0.gif) | ![w](https://userimages.githubusercontent.com/75315732/170837337287bf519-e392-4fd0-b0da-df45e04417db.png)|
+| ![d](https://s6.uupload.ir/files/dark_eeko.gif) | ![w](https://s6.uupload.ir/files/white_nl38.gif) |
 
 
 ## Development Setup
