@@ -19,7 +19,7 @@ Ios ✔️
 
 |               Priview                |              ScreenShot              |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://s6.uupload.ir/files/dark_eeko.gif) | ![w]("https://user-images.githubusercontent.com/75315732/170943301-7794b978-9684-42b4-a399-09242f5372e3.png")
+| ![d](https://s6.uupload.ir/files/dark_eeko.gif) | ![w](https://user-images.githubusercontent.com/75315732/170943301-7794b978-9684-42b4-a399-09242f5372e3.png)
 ) |
 
 
