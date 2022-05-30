@@ -18,7 +18,7 @@ Ios ✔️
 
 |               Preview                |                 App                  |
 | :----------------------------------: | :----------------------------------: |
-| ![ezgif com-gif-maker](https://s6.uupload.ir/files/ezgif.com-gif-maker_pst0.gif) | ![w](https://user-images.githubusercontent.com/75315732/170837337-287bf519-e392-4fd0-b0da-df45e04417db.png)|
+| ![ezgif.com-gif-maker_pst0](https://s6.uupload.ir/files/ezgif.com-gif-maker_pst0.gif) | ![w](https://userimages.githubusercontent.com/75315732/170837337287bf519-e392-4fd0-b0da-df45e04417db.png)|
 
 
 ## Development Setup
