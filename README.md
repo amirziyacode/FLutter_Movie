@@ -17,9 +17,10 @@ Ios ✔️
 
 ### ✌&ensp;Preview
 
-|               DarkMode               |              LightMode               |
+|               Priview                |              ScreenShot              |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://s6.uupload.ir/files/dark_eeko.gif) | ![w](https://s6.uupload.ir/files/white_nl38.gif) |
+| ![d](https://s6.uupload.ir/files/dark_eeko.gif) | ![w](<img width="347" alt="Screen Shot 2022-05-30 at 12 16 07 PM" src="https://user-images.githubusercontent.com/75315732/170943301-7794b978-9684-42b4-a399-09242f5372e3.png">
+) |
 
 
 ## Development Setup
