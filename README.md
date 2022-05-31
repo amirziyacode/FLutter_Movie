@@ -6,9 +6,9 @@
 
 Flutter Movie App 
 
-Useing API :  For Get API Key ![key](https://www.themoviedb.org/?language=en-GB)
+Useing API :  For Get API Key [key](https://www.themoviedb.org/?language=en-GB)
 
-Desine Patern of project is Provider ![Documentation]()
+Desine Patern of project is Provider [Documentation](https://pub.dev/packages/provider)
 
 Tahk you ❤️
 
