@@ -4,8 +4,15 @@
 
 # Flutter_Movie
 
-A new Flutter project.
+Flutter Movie App 
 
+Useing API :  For Get API Key ![key](https://www.themoviedb.org/?language=en-GB)
+
+Desine Patern of project is Provider ![Documentation]()
+
+Tahk you ❤️
+
+Starred me ⭐️
 
 
 ## Platform
