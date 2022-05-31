@@ -19,7 +19,8 @@ Ios ✔️
 
 |               Priview                |              ScreenShot              |
 | :----------------------------------: | :----------------------------------: |
-| ![d](https://s6.uupload.ir/files/ezgif.com-gif-maker_pst0.gif) | ![w](https://user-images.githubusercontent.com/75315732/170943301-7794b978-9684-42b4-a399-09242f5372e3.png)|
+| ![d](![ezgif com-gif-maker](https://user-images.githubusercontent.com/75315732/171151753-476316ce-a8c7-4552-bd88-ad6dcd0def6d.gif)
+) | ![w](https://user-images.githubusercontent.com/75315732/170943301-7794b978-9684-42b4-a399-09242f5372e3.png)|
 
 
 ## Development Setup
