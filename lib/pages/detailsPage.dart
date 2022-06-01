@@ -184,6 +184,7 @@ class _DetailsPageState extends State<DetailsPage> {
                             fontSize: 16),
                       ),
                     ),
+                    // Cast widget ....... 
                     Padding(
                       padding: EdgeInsets.only(top: he * 0.28, left: 25),
                       child: const CircleAvatar(
